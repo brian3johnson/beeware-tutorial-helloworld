@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.11
+Name: helloworld
+Formal-Name: Hello World
+App-ID: me.brian3johnson.helloworld
+Version: 0.0.1
+Home-page: https://brian3johnson.me/beeware/helloworld
+Download-URL: https://brian3johnson.me/beeware/helloworld
+Author: Brian E Johnson
+Author-email: brian@brian3johnson.me
+Summary: My first application
